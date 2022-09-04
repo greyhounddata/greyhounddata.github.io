@@ -19,7 +19,7 @@ feature_row:
     alt: "Fish Weight Regression Model"
     title: "Fish Weight Regression Model"
     excerpt: "This is a live web app which will predict fish weight given species and length. This is an example of a deployed ML Regressor."
-    url: "#test-link"
+    url: "https://greyhounddata-fishweight-app-rg19s8.streamlitapp.com/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
