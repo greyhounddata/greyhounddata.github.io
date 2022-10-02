@@ -26,7 +26,7 @@ feature_row:
     alt: "Mathematics of betting"
     title: "Mathematics of betting"
     excerpt: "Follow our exciting and easy to follow series on the mathematics of betting."
-    url: "#test-link"
+    url: "/tags/#gambling"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
