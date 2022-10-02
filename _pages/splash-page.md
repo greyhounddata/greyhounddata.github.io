@@ -23,9 +23,9 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "Football Arbitrage"
-    title: "Football Arbitrage"
-    excerpt: "In this article we look at betting on premier league football (soccer) - and finding opportunities where our bets will always be guranteed to win! Sounds too good to be true?"
+    alt: "Mathematics of betting"
+    title: "Mathematics of betting"
+    excerpt: "Follow our exciting and easy to follow series on the mathematics of betting."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
